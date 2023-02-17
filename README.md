@@ -1,4 +1,4 @@
-<h1>Lâmpada</h1>
+<h1>Semáforo</h1>
 
 ### Desafio do Semáforo
 <p>
