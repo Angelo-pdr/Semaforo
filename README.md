@@ -3,6 +3,7 @@
 ### Desafio do Semáforo
 <p>
     Esse desafio consistem em fazer a semáforo funcionar de forma manual é de forma automatica utilizando javascript.
+    teste
 </p>
 <img src="video/semaforo.gif" alt="lampada">
 
