@@ -4,7 +4,7 @@
 <p>
     Esse desafio consistem em fazer a semáforo funcionar de forma manual é de forma automatica utilizando javascript.
 </p>
-<img src="video/semaforo.gif" alt="lampada">
+<img src="./img/semaforo.png" alt="lampada">
 
 ## Tecnologia utilizada
 
